@@ -8,66 +8,70 @@
 
 <p align="center">
   <a href="https://www.facebook.com/schizophrenic.dev" target="_blank">
-    <img src="https://img.shields.io/badge/facebook-071A2C?style=for-the-badge&logo=facebook&logoColor=white"/>
+    <img src="https://img.shields.io/badge/facebook-%231877F2.svg?&style=for-the-badge&logo=facebook&logoColor=white&color=071A2C" alt="Facebook"/>
   </a>
   <a href="https://twitter.com/diyasteeen" target="_blank">
-    <img src="https://img.shields.io/badge/twitter-071A2C?style=for-the-badge&logo=twitter&logoColor=white"/>
+    <img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white&color=071A2C" alt="Twitter"/>
   </a>
   <a href="https://instagram.com/diyasteeen" target="_blank">
-    <img src="https://img.shields.io/badge/instagram-071A2C?style=for-the-badge&logo=instagram&logoColor=white"/>
+    <img src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white&color=071A2C" alt="Instagram"/>
   </a>
   <a href="https://www.linkedin.com/in/diyasteeen" target="_blank">
-    <img src="https://img.shields.io/badge/linkedin-071A2C?style=for-the-badge&logo=linkedin&logoColor=white"/>
+    <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white&color=071A2C" alt="LinkedIn"/>
   </a>
 </p>
 
----
-
 <h3 align="center">
-  All discontinued projects have been archived and set to private due to the potential risk of damaging unsupported devices.  
-  I'll still be lurking in some forums and channels but my main focus now shifts to my personal endeavors.  
-  Thank you for the undying support!
+  All discontinued projects have been archived and set to private due to the potential risk of damaging unsupported devices. I'll still be lurking in some forums and channels but my main focus now shifts to my personal endeavors. Thank you for the undying support!
 </h3>
 
 <p align="center">
-  <b>
-    I'm currently taking 
-    <a href="https://grow.google/certificates/it-support/">Google IT Support Certification</a> 
-    at 
-    <a href="https://dict.gov.ph">ILCDB-DICT</a>
-  </b>
+  <b>I'm currently taking <a href="https://grow.google/certificates/it-support/">Google IT Support Certification</a> at <a href="https://dict.gov.ph">ILCDB-DICT</a></b>
 </p>
 
----
+<h3 align="left">Languages and Tools:</h3>
 
-<h3 align="center">⚒️ Languages and Tools</h3>
+<table>
+  <tr>
+    <td><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" width="40"/></td>
+    <td><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" width="40"/></td>
+    <td><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" width="40"/></td>
+    <td><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" width="40"/></td>
+    <td><img src="https://upload.wikimedia.org/wikipedia/commons/9/9a/Visual_Studio_Code_1.35_icon.svg" width="40"/></td>
+    <td><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40"/></td>
+  </tr>
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=android,bootstrap,html,css,vscode,js,figma,git,java,kotlin,linux,androidstudio,nodejs,postman,python,tailwind" />
-</p>
+  <tr>
+    <td><img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" width="40"/></td>
+    <td><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" width="40"/></td>
+    <td><img src="https://upload.wikimedia.org/wikipedia/en/d/d2/Sublime_Text_3_logo.png" width="40"/></td>
+    <td><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="40"/></td>
+    <td><img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" width="40"/></td>
+    <td><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" width="40"/></td>
+  </tr>
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Termux-000000?style=for-the-badge&logo=terminal&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Magisk-00ADEF?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/LSPosed-444444?style=for-the-badge"/>
-</p>
+  <tr>
+    <td><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" width="40"/></td>
+    <td><img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" width="40"/></td>
+    <td><img src="https://upload.wikimedia.org/wikipedia/commons/f/f3/Termux_2.png" width="40"/></td>
+    <td><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2b/Magisk_Logo.svg/2048px-Magisk_Logo.svg.png" width="40"/></td>
+    <td><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40"/></td>
+    <td><img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" width="40"/></td>
+  </tr>
+</table>
 
----
-
-<h3 align="center">🌐 Let's Connect</h3>
-
-<p align="center">
-  <a href="https://linktr.ee/justinecoronel" target="_blank">
-    <img src="https://img.shields.io/badge/Linktree-39E09B?style=for-the-badge&logo=linktree&logoColor=white"/>
+<h3 align="left">Let's Connect:</h3>
+<p align="left">
+  <a href="https://linktr.ee/justinecoronel" target="blank">
+    <img align="center" src="https://upload.wikimedia.org/wikipedia/en/b/bf/Linktree_logo.svg" alt="linktree" height="50" width="210"/>
   </a>
 </p>
 
----
-
-<h3 align="center">☕ Support Me</h3>
-
-<p align="center">
+<h3 align="left">Help Keep the Espresso Machine Running:</h3>
+<p>
   <a href="https://ko-fi.com/schrodingerzcat">
-    <img src="https://img.shields.io/badge/Buy%20Me%20a%20Coffee-FF5E5B?style=for-the-badge&logo=ko-fi&logoColor=white"/>
+    <img align="left" src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="50" width="210" alt="schrodingerzcat"/>
   </a>
 </p>
+
+<br></br>
